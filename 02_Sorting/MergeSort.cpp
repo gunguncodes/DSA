@@ -1,9 +1,9 @@
 /*
 Topic: Sorting
 Algorithm: Merge Sort
-Worst Time Complexity: 
-Best Time Complexity: 
-Space Complexity: 
+Worst Time Complexity: O(n log n)
+Best Time Complexity: O(n log n)
+Space Complexity: O(n)
 */
 
 #include <iostream>
